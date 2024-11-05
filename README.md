@@ -2,7 +2,7 @@
 
 ## Alumno ✒️
 
-* **JErson Villanueva G4 **
+* **Erson Villanueva G4 **
 
 ## Grupo  ✒️
 * 
