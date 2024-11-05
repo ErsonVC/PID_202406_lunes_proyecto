@@ -1,8 +1,8 @@
-# Proyecto Java Backend- Spring
+# Proyecto Integrador
 
-## Docente ✒️
+## Alumno ✒️
 
-* **Jorge Jacinto **
+* **JErson Villanueva G4 **
 
 ## Grupo  ✒️
 * 
